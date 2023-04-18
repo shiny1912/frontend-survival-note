@@ -25,3 +25,4 @@
 ## Group 4
 
 * [Week 6](group-4/week-6.md)
+* [Copy of Week 6](group-4/copy-of-week-6.md)
