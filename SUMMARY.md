@@ -14,3 +14,4 @@
   * [React Router](week-7/react-router.md)
   * [Router](week-7/router.md)
   * [Navigation](week-7/navigation.md)
+* [Week 8](week-8.md)
